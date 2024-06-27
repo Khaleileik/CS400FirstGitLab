@@ -1,4 +1,7 @@
-/*
+/*by Khaleilei Kidau
+ * email: kkidau@wisc.edu
+ * username: khaleileik
+ *
  *	Color class
  */
 public class Color{

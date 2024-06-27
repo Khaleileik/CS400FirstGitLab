@@ -1,4 +1,7 @@
-/*
+/*by: Khaleilei Kidau
+ * Email: kkidau@wisc.edu
+ * username: khaleileik
+ *
  * Test the use of the Color method
  */
 import java.util.*;
